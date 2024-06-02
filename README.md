@@ -89,7 +89,7 @@ Install dependencies using npm install.
 Run the application with npm start.
 
 
-## application's UI
+## Application's UI
 
 #### Home Page:
 
@@ -134,6 +134,21 @@ Run the application with npm start.
 ##### Contractor Received Money:
 
 ###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/52ac31cc-4776-408f-bbf6-a3017f90f913)
+
+### Responsive UI:
+
+##### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/ff11caee-a89e-4d51-adc6-3090d12a194d)
+##### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/d6dbfcd8-0986-43d2-b288-be30318ac613)
+##### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/b5f84332-e323-47e4-89c5-f87bbd7a0523)
+##### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/50d6d01c-574e-4859-b586-9a4881aa19fc)
+##### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/44ff496e-ea56-4517-b37f-11a27835ac50)
+
+
+
+
+
+
+
 
 
 
