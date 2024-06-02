@@ -91,10 +91,58 @@ Run the application with npm start.
 
 ## application's UI
 
-### Home Page:
+#### Home Page:
+
+##### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/44f980a4-7294-4e30-ae02-8ccb26c93de4)
 
 
-#### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/25ded8db-0ecd-4c79-897e-5c935cd5db30)
+#### Users Registration:
+
+##### Login:
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/3bfa4a91-9792-4a48-987d-edb699c81101)
+
+##### SignUp:
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/edcc186b-9ac8-43a7-862b-5ea47bb8d21a)
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/51aa269f-0b11-4495-8c48-d79b6c733f85)
+
+##### Dashboard:
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/071dffd5-8799-4bc9-86ae-6a08abcf4c60)
+
+
+##### Profile:
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/a2b490ec-3dd6-44ba-8763-e6d95a7ea005)
+
+###### Client Add Funds:
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/c3cdc553-0b04-404f-a27a-3872e3c3e26f)
+
+##### Payment:
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/fc827d86-7af0-4d99-8189-2c44a407f956)
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/e9e79339-ec8e-4ac5-a22e-71b99ceaa90e)
+
+
+##### Transaction History:
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/9299868d-380d-48f2-8340-527c289cfe52)
+
+
+##### Contractor Received Money:
+
+###### ![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/52ac31cc-4776-408f-bbf6-a3017f90f913)
+
+
+
+
+
+
+
+
+
 
 
 
