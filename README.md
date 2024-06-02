@@ -90,6 +90,7 @@ Run the application with npm start.
 
 
 ## application's UI
+![image](https://github.com/MarwaAmouri/Freelancers-Management-System-Project/assets/88031424/25ded8db-0ecd-4c79-897e-5c935cd5db30)
 
 
 
